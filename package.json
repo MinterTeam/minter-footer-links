@@ -4,6 +4,7 @@
   "description": "Minter footer links data",
   "author": "shrpne <shrpne@gmail.com>",
   "private": true,
+  "main": "index.js",
   "scripts": {
   },
   "dependencies": {
