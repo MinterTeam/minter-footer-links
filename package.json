@@ -1,0 +1,15 @@
+{
+  "name": "minter-footer-links",
+  "version": "1.0.0",
+  "description": "Minter footer links data",
+  "author": "shrpne <shrpne@gmail.com>",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  }
+}
