@@ -53,6 +53,6 @@ module.exports = [
             en: 'Docs',
             ru: 'Документация',
         },
-        url: 'https://minter-go-node.readthedocs.io/en/latest/',
+        url: 'https://minterteam.github.io/minter-go-node-docs',
     },
 ];
