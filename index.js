@@ -21,7 +21,8 @@ module.exports = [
             en: 'Console',
             ru: 'Консоль',
         },
-        url: 'https://testnet.console.minter.network/',
+        url: 'https://console.minter.network/',
+        urlTestnet: 'https://testnet.console.minter.network/',
     },
     {
         slug: 'status',
@@ -29,7 +30,8 @@ module.exports = [
             en: 'Status',
             ru: 'Статус',
         },
-        url: 'https://status.minter.network/testnet/',
+        url: 'https://status.minter.network/',
+        urlTestnet: 'https://status.minter.network/testnet/',
     },
     {
         slug: 'explorer',
@@ -37,7 +39,8 @@ module.exports = [
             en: 'Explorer',
             ru: 'Эксплорер',
         },
-        url: 'https://testnet.explorer.minter.network/',
+        url: 'https://explorer.minter.network/',
+        urlTestnet: 'https://testnet.explorer.minter.network/',
     },
     {
         slug: 'api',

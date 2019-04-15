@@ -1,9 +1,9 @@
 {
-  "name": "minter-footer-links",
-  "version": "2.2.0",
+  "name": "@minterteam/footer-links",
+  "version": "3.0.0",
   "description": "Minter footer links data",
   "author": "shrpne <shrpne@gmail.com>",
-  "private": true,
+  "private": false,
   "main": "index.js",
   "scripts": {
   },
