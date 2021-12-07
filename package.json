@@ -1,10 +1,17 @@
 {
-  "name": "@minterteam/footer-links",
-  "version": "3.0.0",
+  "name": "minter-footer-links",
+  "version": "3.1.0",
   "description": "Minter footer links data",
   "author": "shrpne <shrpne@gmail.com>",
   "private": false,
   "main": "index.js",
+  "files": [
+    "/index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinterTeam/minter-footer-links.git"
+  },
   "scripts": {
   },
   "dependencies": {

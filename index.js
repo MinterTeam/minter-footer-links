@@ -1,12 +1,13 @@
 module.exports = [
     {
-        slug: 'intro',
+        slug: 'main',
         title: {
-            en: 'Intro',
-            ru: 'Интро',
+            en: 'Network',
+            ru: 'Сеть',
         },
         url: 'https://www.minter.network/',
     },
+/*
     {
         slug: 'network',
         title: {
@@ -15,6 +16,7 @@ module.exports = [
         },
         url: 'https://about.minter.network/',
     },
+*/
     {
         slug: 'console',
         title: {
@@ -22,7 +24,7 @@ module.exports = [
             ru: 'Консоль',
         },
         url: 'https://console.minter.network/',
-        urlTestnet: 'https://testnet.console.minter.network/',
+        urlTestnet: 'https://console.testnet.minter.network/',
     },
     {
         slug: 'status',
@@ -40,7 +42,7 @@ module.exports = [
             ru: 'Эксплорер',
         },
         url: 'https://explorer.minter.network/',
-        urlTestnet: 'https://testnet.explorer.minter.network/',
+        urlTestnet: 'https://explorer.testnet.minter.network/',
     },
     {
         slug: 'api',
@@ -56,6 +58,6 @@ module.exports = [
             en: 'Docs',
             ru: 'Документация',
         },
-        url: 'https://docs.minter.network',
+        url: 'https://minter.network/docs',
     },
 ];
